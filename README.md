@@ -1,9 +1,11 @@
-<!-- [@]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=36814&section=0> "AVA3"  
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
+<!-- [@] INICIO atualizar -->
+[AVA3]: <https://ava3.furb.br/course/view.php?id=43859&section=0> "AVA3"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=43859&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
-[Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
-[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
+[Monitoria]: <https://www.icloud.com/numbers/0aeNaFj7VQw9P50bGzNoiuR_g#Monitores_2024_2> "Monitoria"  
+[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/zCnUSk1TzC> "Prova de Suficiência (inscrição)"
+[Ambiente de Desenvolvimento Prático]: <Unidade1/IDE.md> "Ambiente de Desenvolvimento Prático"  
+[Trabalho Final]: <./TrabalhoFinal> "Trabalho Final"  
 
 # Disciplina de Introdução à Programação
 
@@ -15,7 +17,7 @@ Para se localizar em relação aos dias de aula e o conteúdo que está sendo pa
 
 Também tem a pasta [Exemplos](./Exemplos/src "Exemplos") que contém códigos em Java que podem ser usados nas unidades. Inicialmente é interessante executar o exemplo de código para entender a sua programação, e depois usar partes deste código na atividade em si.
 
-Mas observe, as pastas serão disponibilizadas no decorrer do cronograma. Assim, mais próximo do final do cronograma teremos a pasta [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal") que irá conter o material necessário para desenvolver a atividade final da disciplina.
+Mas observe, as pastas serão disponibilizadas no decorrer do cronograma. Assim, mais próximo do final do cronograma teremos a pasta [Trabalho Final] que irá conter o material necessário para desenvolver a atividade final da disciplina.
 
 Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com um dos sistemas operacionais: Windows, Linux ou MacOS. O material teórico (textos e videoaulas) até podem ser trabalhados com dispositivos móveis (smartphones ou tablets), mas a parte prática exige um equipamento desktop.
 
@@ -29,14 +31,15 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## Links
 
-[Matriz curricular BCC](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf> "Matriz curricular BCC")  
-[Matriz curricular SIS](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_SIS.pdf> "Matriz curricular SIS")  
+[Matriz curricular BCC](<https://www.furb.br/sites/default/files/2022-06/GRADE%20computaçao.pdf> "Matriz curricular BCC")  
+[Matriz curricular SIS](<https://www.furb.br/sites/default/files/2022-06/GRADE%20SISTEMAS%20DE%20INFO.pdf> "Matriz curricular SIS")  
 
 [AVA3]  
 [Plano de Ensino]  
 [Cronograma]  
 [Monitoria]  
 [Prova de Suficiência (inscrição)]  
+[Ambiente de Desenvolvimento Prático]  
 
 **Prazos**: geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de enviou que foi definido no post do AVA3 para aquela atividade.
 
@@ -57,6 +60,6 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 
 ## [Unidade6](./Unidade6 "Unidade6")
 
-## [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
+## [Trabalho Final]
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
