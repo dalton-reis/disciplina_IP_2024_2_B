@@ -263,15 +263,15 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Aula_28](Unidade5/aulaAnotacoes.md#Aula_28 " 07-10-2024 segunda-feira ") 07-10-2024 segunda-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_29](Unidade5/aulaAnotacoes.md#Aula_29 " 08-10-2024 terça-feira ") 08-10-2024 terça-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_30](Unidade5/aulaAnotacoes.md#Aula_30 " 08-10-2024 terça-feira ") 08-10-2024 terça-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "Semana Acadêmica")  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ### [Aula_31](Unidade5/aulaAnotacoes.md#Aula_31 " 14-10-2024 segunda-feira ") 14-10-2024 segunda-feira
   
